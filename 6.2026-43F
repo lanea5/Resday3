@@ -1,0 +1,1778 @@
+:: StoryTitle
+43 F N/v
+
+
+:: StoryData
+{
+  "ifid": "5F9F674C-216D-44C9-AC73-030E59950776",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Triage arrival",
+  "zoom": 0.6
+}
+
+
+:: \ See your NPDS for the next portion of this education {"position":"4650,3150","size":"100,100"}
+Want to try again?
+Click here to go back to the patient's [[Triage arrival]] ?
+
+
+:: \ See your NPDS for the next portion of this education {"position":"4650,3150","size":"100,100"}
+Want to try again?
+Click here to go back to the patient's [[Triage arrival]] ?
+
+
+:: "I told you like an hour ago" {"position":"3600,2700","size":"100,100"}
+For this situation we would want to use  ''Stop and Resolve'' 
+Stop and Resolve refers to a technique to help individuals stop what they are doing and assess or resolve the situation when they think something isn’t right. 
+
+At this point the focus needs to be on how to get the patient the [[resources they need]]  , not our feeling about the situation .
+
+
+:: "I told you like an hour ago" {"position":"3600,2700","size":"100,100"}
+For this situation we would want to use  ''Stop and Resolve'' 
+Stop and Resolve refers to a technique to help individuals stop what they are doing and assess or resolve the situation when they think something isn’t right. 
+
+At this point the focus needs to be on how to get the patient the [[resources they need]]  , not our feeling about the situation .
+
+
+:: 1 {"position":"1800,1250","size":"100,100"}
+The Charge Nurse is alerted from triage, patient is wheeled back to a [[room]] immeadaitly.
+
+
+:: 1 {"position":"1800,1250","size":"100,100"}
+The Charge Nurse is alerted from triage, patient is wheeled back to a [[room]] immeadaitly.
+
+
+:: 2 {"position":"1800,1150","size":"100,100"}
+There is no bed available. Charge nurse asks if the patient could wait in the lobby for the first available, or if you would prefer a hallway bed. 
+
+[[lobby]]
+[[Hallway bed]]
+
+
+:: 2 {"position":"1800,1150","size":"100,100"}
+There is no bed available. Charge nurse asks if the patient could wait in the lobby for the first available, or if you would prefer a hallway bed. 
+
+[[lobby]]
+[[Hallway bed]]
+
+
+:: 3 {"position":"775,1025","size":"100,100"}
+Would you like to initiate NIPS prior to patient waiting in Lobby? 
+[[Order NIPS]]
+Place directly to [[lobby]]
+
+
+:: 3 {"position":"775,1025","size":"100,100"}
+Would you like to initiate NIPS prior to patient waiting in Lobby? 
+[[Order NIPS]]
+Place directly to [[lobby]]
+
+
+:: 3,300u {"position":"3187.5,3575","size":"100,100"}
+Lets take a look at that [[order]] again.
+
+
+:: 3,300u {"position":"3187.5,3575","size":"100,100"}
+Lets take a look at that [[order]] again.
+
+
+:: 4 {"position":"900,1025","size":"100,100"}
+Patient is placed back in the [[lobby]]
+
+
+:: 4 {"position":"900,1025","size":"100,100"}
+Patient is placed back in the [[lobby]]
+
+
+:: 4,000u {"position":"3325,3575","size":"100,100"}
+Right! 
+(210/2.2)*60=5,727u, but the maximum safe dose for heparin for ACS symptoms would be 4,000u 
+
+Let's get ready to [[adminsiter]] the medications
+
+
+:: 4,000u {"position":"3325,3575","size":"100,100"}
+Right! 
+(210/2.2)*60=5,727u, but the maximum safe dose for heparin for ACS symptoms would be 4,000u 
+
+Let's get ready to [[adminsiter]] the medications
+
+
+:: 5 {"position":"1025,1025","size":"100,100"}
+Patient is placed back in the [[lobby]]
+
+
+:: 5 {"position":"1025,1025","size":"100,100"}
+Patient is placed back in the [[lobby]]
+
+
+:: 5,700u {"position":"3125,3325","size":"100,100"}
+Lets take a look at that [[order]] again.
+
+
+:: 5,700u {"position":"3125,3325","size":"100,100"}
+Lets take a look at that [[order]] again.
+
+
+:: ASA {"position":"3050,2950","size":"100,100"}
+This order is appropriate for this paitent, if needed you could seek information for  clarifying the order. 
+If needed, you could as a friend who might (text-colour:yellow)[k[[no]]w ]what is wrong with these orders
+
+
+:: ASA {"position":"3050,2950","size":"100,100"}
+This order is appropriate for this paitent, if needed you could seek information for  clarifying the order. 
+If needed, you could as a friend who might (text-colour:yellow)[k[[no]]w ]what is wrong with these orders
+
+
+:: Abdominal Pain {"position":"875,1525","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Abdominal Pain {"position":"875,1525","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Admited obs for ACS Symptoms {"position":"3900,3300","size":"100,100"}
+ACS-- Acute Coronary Syndrome is an umbrella  term ranging from stable angina to STEMI. 
+Although the physician may list ACS on this patients diagnosis, this patient is not appropriate for observation. 
+With an elevated troponin and active symptoms (epigastric pain and vomiting), this patient would need to be assigned in an inpatient status bed. 
+
+Take a look at the differences in these possible ACS disgnosis 
+
+ {<div  style="overflow:scroll">
+<img
+src=https://img.grepmed.com/uploads/3707/diagnosis-angina-nstemi-definitions-acs-original.jpeg
+width="2000" height="600"
+</div>}
+
+Let's take another look at the possible [[resources they need]].
+
+
+:: Admited obs for ACS Symptoms {"position":"3900,3300","size":"100,100"}
+ACS-- Acute Coronary Syndrome is an umbrella  term ranging from stable angina to STEMI. 
+Although the physician may list ACS on this patients diagnosis, this patient is not appropriate for observation. 
+With an elevated troponin and active symptoms (epigastric pain and vomiting), this patient would need to be assigned in an inpatient status bed. 
+
+Take a look at the differences in these possible ACS disgnosis 
+
+ {<div  style="overflow:scroll">
+<img
+src=https://img.grepmed.com/uploads/3707/diagnosis-angina-nstemi-definitions-acs-original.jpeg
+width="2000" height="600"
+</div>}
+
+Let's take another look at the possible [[resources they need]].
+
+
+:: BG {"position":"1575,675","size":"100,100"}
+
+
+
+:: BG {"position":"1575,675","size":"100,100"}
+
+
+
+:: Blood Glucose {"position":"1575,700","size":"100,100"}
+POCT BG is 185. 
+Pt reports she ate about 1.5 hours pta
+
+
+Ready to Assign a Triage Score? 
+[[Yes]] 
+[[No]]
+
+
+:: Blood Glucose {"position":"1575,700","size":"100,100"}
+POCT BG is 185. 
+Pt reports she ate about 1.5 hours pta
+
+
+Ready to Assign a Triage Score? 
+[[Yes]] 
+[[No]]
+
+
+:: Can you please page a STEMI alert now, we can talk about the rest later {"position":"3725,2700","size":"100,100"}
+Right! 
+For this situation we would want to use  ''Stop and Resolve'' 
+Stop and Resolve refers to a technique to help individuals stop what they are doing and assess or resolve the situation when they think something isn’t right. 
+
+At this point the focus needs to be on how to get the patient the [[resources they need]], not our feeling about the situation .
+
+
+:: Can you please page a STEMI alert now, we can talk about the rest later {"position":"3725,2700","size":"100,100"}
+Right! 
+For this situation we would want to use  ''Stop and Resolve'' 
+Stop and Resolve refers to a technique to help individuals stop what they are doing and assess or resolve the situation when they think something isn’t right. 
+
+At this point the focus needs to be on how to get the patient the [[resources they need]], not our feeling about the situation .
+
+
+:: Cath Lab RN arrives {"position":"4250,3275","size":"100,100"}
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+|==|
+
+
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+|==|
+
+
+=|=
+#&#127881;
+=|=
+CONGRATULATIONS!!!!
+=|=
+=|=
+     #(text-colour:#0972a9)[.......]  &#127881;
+|==|
+
+
+
+=|=
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+|==|
+
+
+=|=
+#&#127881;
+=|=
+
+#(text-colour:magenta)+(bg:(gradient: 174, 0,#0972A9,0.1096,#19e5e6,1,#0972A9))[CATH LAB ARRIVED FOR YOUR PATIENT ]
+=|=
+#(text-colour:#0972a9)[]&#127881;
+|==|
+
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+|==|
+
+
+=|=
+#&#127881;
+=|=
+
+=|=
+
+=|=
+
+=|=
+
+=|=
+#&#127881;
+|==|
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+|==|
+
+
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+|==|
+[[ See your NPDS for the next portion of this education]]
+
+
+:: Cath Lab RN arrives {"position":"4250,3275","size":"100,100"}
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+|==|
+
+
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+|==|
+
+
+=|=
+#&#127881;
+=|=
+CONGRATULATIONS!!!!
+=|=
+=|=
+     #(text-colour:#0972a9)[.......]  &#127881;
+|==|
+
+
+
+=|=
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+|==|
+
+
+=|=
+#&#127881;
+=|=
+
+#(text-colour:magenta)+(bg:(gradient: 174, 0,#0972A9,0.1096,#19e5e6,1,#0972A9))[CATH LAB ARRIVED FOR YOUR PATIENT ]
+=|=
+#(text-colour:#0972a9)[]&#127881;
+|==|
+
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+|==|
+
+
+=|=
+#&#127881;
+=|=
+
+=|=
+
+=|=
+
+=|=
+
+=|=
+#&#127881;
+|==|
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+|==|
+
+
+
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+=|=
+
+=|=
+#&#127881;
+|==|
+[[ See your NPDS for the next portion of this education]]
+
+
+:: Check back in 5 minutes {"position":"3600,2450","size":"100,100"}
+Patient begins to complain of a headache and nausea
+Vitals read HR 65 BP 104/96 RR 23 SPO2 96%
+It is time for another dose of Nitro; would you [[administer the next dose]] or [[ask the physician to reevaluate first]]?
+
+
+:: Check back in 5 minutes {"position":"3600,2450","size":"100,100"}
+Patient begins to complain of a headache and nausea
+Vitals read HR 65 BP 104/96 RR 23 SPO2 96%
+It is time for another dose of Nitro; would you [[administer the next dose]] or [[ask the physician to reevaluate first]]?
+
+
+:: Chest Pain / Syncope "Heart Attack" (AMI) {"position":"750,1525","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Chest Pain / Syncope "Heart Attack" (AMI) {"position":"750,1525","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Diabetic {"position":"750,1400","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Diabetic {"position":"750,1400","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Discharge home with follow up by cardiology {"position":"3875,3025","size":"100,100"}
+This patient should not be discharged home. 
+There is an elevated troponin with no alternative cause. You should be hesitant to send home any patient with newly elevated troponin, especially in absence of kidney disfunction. 
+Let's take another look at the possible [[resources they need]] before they go home.
+
+
+:: Discharge home with follow up by cardiology {"position":"3875,3025","size":"100,100"}
+This patient should not be discharged home. 
+There is an elevated troponin with no alternative cause. You should be hesitant to send home any patient with newly elevated troponin, especially in absence of kidney disfunction. 
+Let's take another look at the possible [[resources they need]] before they go home.
+
+
+:: EKG {"position":"1575,575","size":"100,100"}
+{<div style="overflow:scroll">
+<img
+src=https://www.skillstat.com/wp-content/uploads/2022/04/12-Lead-ECG-Practice-Quiz-Question-7-white.png
+width="1300" height="500"
+</div>}
+
+EKG is completed but the Attending is in another room and says to put the ekg on their computer, they will read it in a minute. 
+
+Ready to Assign a Triage Score? 
+[[Yes]] 
+[[No]]
+
+
+:: EKG {"position":"1575,575","size":"100,100"}
+{<div style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/anteroseptal.png
+width="1300" height="500"
+</div>}
+
+EKG is completed but the Attending is in another room and says to put the ekg on their computer, they will read it in a minute. 
+
+Ready to Assign a Triage Score? 
+[[Yes]] 
+[[No]]
+
+
+:: GI Bleed Suspected {"position":"875,1400","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: GI Bleed Suspected {"position":"875,1400","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Hallway bed {"position":"2200,1100","size":"100,100"}
+Patient is placed in a hallbed and physician is alerted that patient is waiting to be seen. 
+Physician interprets EKG and tells you to call a STEMI Alert, place the patient on a monitor, start 2 18G IV's , collect enough blood for a cardiac workup, and get the patient in the next [[room]] available.
+
+
+:: Hallway bed {"position":"2200,1100","size":"100,100"}
+Patient is placed in a hallbed and physician is alerted that patient is waiting to be seen. 
+Physician interprets EKG and tells you to call a STEMI Alert, place the patient on a monitor, start 2 18G IV's , collect enough blood for a cardiac workup, and get the patient in the next [[room]] available.
+
+
+:: Heparin {"position":"3250,3075","size":"100,100"}
+Right!
+This Heparin dose is too large for this patient. 
+
+How would you iniatially approach this conversation with the physician. 
+
+[[That's too much, I'm not giving that]] 
+[[I heard 10,000 units IVP bolus Heparin, is that correct?]]
+
+
+:: Heparin {"position":"3250,3075","size":"100,100"}
+Right!
+This Heparin dose is too large for this patient. 
+
+How would you iniatially approach this conversation with the physician. 
+
+[[That's too much, I'm not giving that]] 
+[[I heard 10,000 units IVP bolus Heparin, is that correct?]]
+
+
+:: History {"position":"1575,800","size":"100,100"}
+The vomiting started abruptly about 1 hour prior to arrival; she was at work doing her typical desk job. Patient last ate about 1.5 hours ago, but states "this doesn't feel like indigestion, this feels so much worse. I don't know how to describe it" .
+Pt denies allergies to medications, states she is diabetic, has HTN and Hyperlipidemia  but all are well controlled by oral medications. Pt denies missing any doses of medication recently.
+Patient is 5'6" and weight 210#
+LMP 2 weeks ago, normal. 
+pt admits to smoking 0.5ppd cigarettes and social alcohol use but denies other drugs. 
+
+Ready to Assign a Triage Score? 
+[[Yes]] 
+[[No]]
+
+
+:: History {"position":"1575,800","size":"100,100"}
+The vomiting started abruptly about 1 hour prior to arrival; she was at work doing her typical desk job. Patient last ate about 1.5 hours ago, but states "this doesn't feel like indigestion, this feels so much worse. I don't know how to describe it" .
+Pt denies allergies to medications, states she is diabetic, has HTN and Hyperlipidemia  but all are well controlled by oral medications. Pt denies missing any doses of medication recently.
+Patient is 5'6" and weight 210#
+LMP 2 weeks ago, normal. 
+pt admits to smoking 0.5ppd cigarettes and social alcohol use but denies other drugs. 
+
+Ready to Assign a Triage Score? 
+[[Yes]] 
+[[No]]
+
+
+:: I heard 10,000 units IVP bolus Heparin, is that correct? {"position":"3250,3200","size":"100,100"}
+YES!
+It is important to maintain a questioning attitude when receiving an order from a physican while maintaining professionalism. 
+A tool that is often used in this scenario is   ''ARCC ''
+'(text-style:"bold","underline")['A']'sk a Question –(text-style:"bold","underline")[''R']'equest a Change–v'oice a '(text-style:"bold","underline")['C'']oncern –use your '(text-style:"bold","underline")['C'']hain of Command.
+
+Let's check on that [[order]]
+
+
+:: I heard 10,000 units IVP bolus Heparin, is that correct? {"position":"3250,3200","size":"100,100"}
+YES!
+It is important to maintain a questioning attitude when receiving an order from a physican while maintaining professionalism. 
+A tool that is often used in this scenario is   ''ARCC ''
+'(text-style:"bold","underline")['A']'sk a Question –(text-style:"bold","underline")[''R']'equest a Change–v'oice a '(text-style:"bold","underline")['C'']oncern –use your '(text-style:"bold","underline")['C'']hain of Command.
+
+Let's check on that [[order]]
+
+
+:: LAD {"position":"2550,2975","size":"100,100"}
+#(text-style:"bold","wavy-underline","outline")[CORRECT]
+
+#Left Anterior Descending Artery
+This large vessle provides about 50% of your hearts blood supply. 
+The nickname for this vessel is the "Widowmaker" 
+{<div  style="overflow:scroll"
+class="image-container">
+<img
+src=https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24507-widowmaker-heart-attack-illustration
+width="550" height="1450"
+<div class="overlay-text"
+</div>}
+
+---
+Notice how on the image below, the precordial leads are placed anatomically directly over the vessles descending from the LAD. 
+This image stresses the important of accurate lead placement when preforming EKG
+
+
+{<div style="overflow:scroll">
+<img
+src=https://ecgwaves.com/wp-content/uploads/2016/09/ecg-localization-myocardial-infarction-stemi-ischemia-coronary-artery-occlusion.jpg
+width="700" height="500"
+</div>}
+
+---
+
+
+''Now, lets get [[back]]  to your patient. ''
+
+
+:: LAD {"position":"2550,2975","size":"100,100"}
+#(text-style:"bold","wavy-underline","outline")[CORRECT]
+
+#Left Anterior Descending Artery
+This large vessle provides about 50% of your hearts blood supply. 
+The nickname for this vessel is the "Widowmaker" 
+{<div  style="overflow:scroll"
+class="image-container">
+<img
+src=https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24507-widowmaker-heart-attack-illustration
+width="550" height="1450"
+<div class="overlay-text"
+</div>}
+
+---
+Notice how on the image below, the precordial leads are placed anatomically directly over the vessles descending from the LAD. 
+This image stresses the important of accurate lead placement when preforming EKG
+
+
+{<div style="overflow:scroll">
+<img
+src=https://ecgwaves.com/wp-content/uploads/2016/09/ecg-localization-myocardial-infarction-stemi-ischemia-coronary-artery-occlusion.jpg
+width="700" height="500"
+</div>}
+
+---
+
+
+''Now, lets get [[back]]  to your patient. ''
+
+
+:: LCx {"position":"2375,3050","size":"100,100"}
+The Left Circumflex Artery supplies the lateral portion of the heart. 
+This would be reflected in leads I, aVL, V5, & V6
+
+{<div  style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+Notice how on the image below, precordial leads V5, & V6 are placed anatomically diectly over the vessles descending from the LCx. Leads AVL and I use geometric calculations to find the mean electrical vector to between points on the EKG.
+The image below stresses the important of accurate lead placement when preforming EKG
+
+{<div  style="overflow:scroll">
+<img
+src=https://ecgwaves.com/wp-content/uploads/2016/09/ecg-localization-myocardial-infarction-stemi-ischemia-coronary-artery-occlusion.jpg
+width="700" height="500"
+</div>}
+
+
+---
+
+Take a look at the images above and infer which vessle supplies leads [[V2&V3]]
+
+
+:: LCx {"position":"2375,3050","size":"100,100"}
+The Left Circumflex Artery supplies the lateral portion of the heart. 
+This would be reflected in leads I, aVL, V5, & V6
+
+{<div  style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+Notice how on the image below, precordial leads V5, & V6 are placed anatomically diectly over the vessles descending from the LCx. Leads AVL and I use geometric calculations to find the mean electrical vector to between points on the EKG.
+The image below stresses the important of accurate lead placement when preforming EKG
+
+{<div  style="overflow:scroll">
+<img
+src=https://ecgwaves.com/wp-content/uploads/2016/09/ecg-localization-myocardial-infarction-stemi-ischemia-coronary-artery-occlusion.jpg
+width="700" height="500"
+</div>}
+
+
+---
+
+Take a look at the images above and infer which vessle supplies leads [[V2&V3]]
+
+
+:: Nitro {"position":"3075,3200","size":"100,100"}
+This order is appropriate for this paitent, if needed you could seek information for  clarifying the order. 
+If needed, you could as a friend who might (text-colour:yellow)[k[[no]]w ]what is wrong with these orders
+
+
+:: Nitro {"position":"3075,3200","size":"100,100"}
+This order is appropriate for this paitent, if needed you could seek information for  clarifying the order. 
+If needed, you could as a friend who might (text-colour:yellow)[k[[no]]w ]what is wrong with these orders
+
+
+:: No {"position":"1125,700","size":"100,100"}
+What additional information would you like to know? 
+                [[Blood Glucose]]
+                [[History]]
+                [[Physical assessment]]
+                [[EKG]]
+
+
+:: No {"position":"1125,700","size":"100,100"}
+What additional information would you like to know? 
+                [[Blood Glucose]]
+                [[History]]
+                [[Physical assessment]]
+                [[EKG]]
+
+
+:: Order NIPS {"position":"775,1175","size":"100,100"}
+Which order set would you like to place 
+
+[[Pregnancy (Potential)]]
+Urine POC or serum pregnancy test (Avoid if possible sexual assault /
+abuse)
+
+[[GI Bleed Suspected]]
+Physiologic monitoring, as appropriate
+IV with large bore (#18g or greater ) with saline lock
+ may insert up to two lines
+ CBC with diff (Point of Care H&H if available)
+ CMP
+PT/INR/APPT (GI Bleed) if taking anticoagulants
+
+[[Diabetic]]
+Finger stick blood glucose x 1
+IV catheter with saline lock
+Physiologic monitoring, as appropriate
+If blood glucose greater than 400- CMP, VBG, CBC with Diff, Ketone, and
+urine dip
+
+
+[[Chest Pain / Syncope "Heart Attack" (AMI)]]
+ECG (electrocardiogram) with Physician/LIP review, may repeat with
+continued pain, returning pain/worsening of chest pain and/or change in
+cardiac waveform (ECG changes)
+Continuous ECG monitoring and physiologic monitoring, as appropriate
+IV catheter with saline lock
+CBC with differential
+CMP
+Troponin
+Magnesium
+CXR
+
+[[Abdominal Pain]]
+NPO (nothing by mouth)
+Physiologic monitoring, as appropriate
+IV (intravenous) catheter with saline lock
+Clean catch urinalysis (Fem-Cath™ (in and out) for menstruating female)
+Urinalysis, Point of Care (POC) if available
+Complete Blood Count (CBC) with differential
+Comprehensive Metabolic Profile (CMP)
+
+
+:: Order NIPS {"position":"775,1175","size":"100,100"}
+Which order set would you like to place 
+
+[[Pregnancy (Potential)]]
+Urine POC or serum pregnancy test (Avoid if possible sexual assault /
+abuse)
+
+[[GI Bleed Suspected]]
+Physiologic monitoring, as appropriate
+IV with large bore (#18g or greater ) with saline lock
+ may insert up to two lines
+ CBC with diff (Point of Care H&H if available)
+ CMP
+PT/INR/APPT (GI Bleed) if taking anticoagulants
+
+[[Diabetic]]
+Finger stick blood glucose x 1
+IV catheter with saline lock
+Physiologic monitoring, as appropriate
+If blood glucose greater than 400- CMP, VBG, CBC with Diff, Ketone, and
+urine dip
+
+
+[[Chest Pain / Syncope "Heart Attack" (AMI)]]
+ECG (electrocardiogram) with Physician/LIP review, may repeat with
+continued pain, returning pain/worsening of chest pain and/or change in
+cardiac waveform (ECG changes)
+Continuous ECG monitoring and physiologic monitoring, as appropriate
+IV catheter with saline lock
+CBC with differential
+CMP
+Troponin
+Magnesium
+CXR
+
+[[Abdominal Pain]]
+NPO (nothing by mouth)
+Physiologic monitoring, as appropriate
+IV (intravenous) catheter with saline lock
+Clean catch urinalysis (Fem-Cath™ (in and out) for menstruating female)
+Urinalysis, Point of Care (POC) if available
+Complete Blood Count (CBC) with differential
+Comprehensive Metabolic Profile (CMP)
+
+
+:: Patient EKG interprered as Inferior MI {"position":"2525,2175","size":"100,100"}
+''Your patients EKG (text-style:"underline")[did not ] have the characteristics of an inferior MI''
+
+Characteristics of an inferior MI include :
+
+* ST-segment elevation and T wave inversion in (text-style:"bold","underline")[at least 2 two contiguous leads]
+	* Contiguous leads for inferior MI's are leads II, III, and aVF
+* Reciprocal changes in leads I, aVL, and possibly V4
+* Left electrical axis deviation
+ST Elevation is defined as a deviation from the isoeletric line by +0.1 millivolt (1mm) . This deviatrion is measured at the J-point
+
+
+
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[Measuring J-Point] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpoint.PNG
+width="400" height="300"
+</div>}]
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[
+''J-Point Elevation''] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpe.PNG
+width="400" height="300"
+</div>}]
+
+Typically you will see ST-segment/ J-point elevation in the area of the heart that is being affected by the ischemic changes and you will see reciprocal changes (usually ST-segment/j-point depression) in the ekg lead(s) that are opposite that area of the heart. 
+EKG leads that "show" the same areas of the heart are refered to as "contiguous leads". 
+Areas that show reciprical chages are typically anatomically opposite of each other
+For example:
+* Anterior leads (V2-3) are reciprocal to posterior leads (V7, V8, V9). 
+* Lateral leads (I and aVL) are reciprocal to Inferior leads (II, III and aVF)
+
+Below is a list of more contiguous leads. 
+
+{<div style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+---
+It is important to note the difference between precordial leads (V1,V2,V3,V4,V5 and V6) from augmented limb leads (aVR, aVL and aVF), and limb leads (I, II and III). An Inferior MI will have changes in the limb/augmented limb leads, but will not have changes in the precordial leads (unless there is a secondary ischemic change). 
+
+Below is an example of an inferior MI 
+
+{<div  style="overflow:scroll">
+<img
+src=https://www.healio.com/~/media/learningsites/learntheheart/assets/4/a/8/b/inferiorstemi_blog4.webp
+width="700" height="200"
+</div>}
+
+---
+An important note for Inferior MI's is that Nitro should be used (text-style:"bold","underline")[with extreme caution] in patients with this pathology. 
+Inferior MI's often have an element of Right Ventricular Wall involvement and the adminstration of Nitro for this population may rapidly decrease the patients blood pressure. 
+This is because these MI's are "preload dependent". An injury to the right ventricular wall can result in decreased contractility in the rt side of the heart, this on its own may result in a low blood pressure for the patient. When Nitro is added to this pathology,the patients preload is lowered and their blood pressure may become dangeriously low.  
+
+
+
+---
+Let's go back to the [[room]] and look at your patients EKG again
+
+
+:: Patient EKG interprered as Inferior MI {"position":"2525,2175","size":"100,100"}
+''Your patients EKG (text-style:"underline")[did not ] have the characteristics of an inferior MI''
+
+Characteristics of an inferior MI include :
+
+* ST-segment elevation and T wave inversion in (text-style:"bold","underline")[at least 2 two contiguous leads]
+	* Contiguous leads for inferior MI's are leads II, III, and aVF
+* Reciprocal changes in leads I, aVL, and possibly V4
+* Left electrical axis deviation
+ST Elevation is defined as a deviation from the isoeletric line by +0.1 millivolt (1mm) . This deviatrion is measured at the J-point
+
+
+
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[Measuring J-Point] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpoint.PNG
+width="400" height="300"
+</div>}]
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[
+''J-Point Elevation''] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpe.PNG
+width="400" height="300"
+</div>}]
+
+Typically you will see ST-segment/ J-point elevation in the area of the heart that is being affected by the ischemic changes and you will see reciprocal changes (usually ST-segment/j-point depression) in the ekg lead(s) that are opposite that area of the heart. 
+EKG leads that "show" the same areas of the heart are refered to as "contiguous leads". 
+Areas that show reciprical chages are typically anatomically opposite of each other
+For example:
+* Anterior leads (V2-3) are reciprocal to posterior leads (V7, V8, V9). 
+* Lateral leads (I and aVL) are reciprocal to Inferior leads (II, III and aVF)
+
+Below is a list of more contiguous leads. 
+
+{<div style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+---
+It is important to note the difference between precordial leads (V1,V2,V3,V4,V5 and V6) from augmented limb leads (aVR, aVL and aVF), and limb leads (I, II and III). An Inferior MI will have changes in the limb/augmented limb leads, but will not have changes in the precordial leads (unless there is a secondary ischemic change). 
+
+Below is an example of an inferior MI 
+
+{<div  style="overflow:scroll">
+<img
+src=https://www.healio.com/~/media/learningsites/learntheheart/assets/4/a/8/b/inferiorstemi_blog4.webp
+width="700" height="200"
+</div>}
+
+---
+An important note for Inferior MI's is that Nitro should be used (text-style:"bold","underline")[with extreme caution] in patients with this pathology. 
+Inferior MI's often have an element of Right Ventricular Wall involvement and the adminstration of Nitro for this population may rapidly decrease the patients blood pressure. 
+This is because these MI's are "preload dependent". An injury to the right ventricular wall can result in decreased contractility in the rt side of the heart, this on its own may result in a low blood pressure for the patient. When Nitro is added to this pathology,the patients preload is lowered and their blood pressure may become dangeriously low.  
+
+
+
+---
+Let's go back to the [[room]] and look at your patients EKG again
+
+
+:: Patient EKG interpreted as Anterior/Septal MI {"position":"2500,2675","size":"100,100"}
+#(text-style:"bold","wavy-underline","outline")[CORRECT]
+''Your patients EKG has the characteristics of a
+ Anterior/Septal MI''
+
+Characteristics of a Anterior Septal MI include :
+
+* ST-segment elevation and T wave inversion in (text-style:"bold","underline")[at least 2 two contiguous leads]
+	* ST-segment elevation in leads V1, V2, V3, V4
+ST Elevation is defined as a deviation from the isoeletric line by +0.1 millivolt (1mm) . This deviatrion is measured at the J-point
+
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[Measuring J-Point] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpoint.PNG
+width="400" height="300"
+</div>}]
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[
+''J-Point Elevation''] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpe.PNG
+width="400" height="300"
+</div>}]
+
+---
+Typically you will see ST-segment/ J-point elevation in the area of the heart that is being affected by the ischemic changes and you will see reciprocal changes (usually ST-segment/j-point depression) in the ekg lead(s) that are opposite that area of the heart. 
+EKG leads that "show" the same areas of the heart are refered to as "contiguous leads". 
+Areas that show reciprical chages are typically anatomically opposite of each other
+For example:
+* Anterior leads (V2-3) are reciprocal to posterior leads (V7, V8, V9). 
+* Lateral leads (I and aVL) are reciprocal to Inferior leads (II, III and aVF)
+
+Below is a list of more contiguous leads. 
+
+{<div style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+---
+It is important to note the difference between precordial leads (V1,V2,V3,V4,V5 and V6) from augmented limb leads (aVR, aVL and aVF), and limb leads (I, II and III). A Anterior MI will have elevation in V1 (precordial lead) but not  I (limb lead), unless there is lateral wall involvement in the septal MI
+
+
+---
+Where do you notice ST Elevation on your patients EKG? 
+
+{<div style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/anteroseptal.png
+width="1300" height="500"
+</div>}
+
+
+---
+[[aVL&V1]]
+---
+[[V1&V2]]
+---
+[[V2&V3]]
+---
+[[V3&V4]]
+---
+[[V5&V6]]
+----
+[[V1&V6]]
+---
+
+
+:: Patient EKG interpreted as Lateral MI {"position":"2525,2425","size":"100,100"}
+''Your patients EKG (text-style:"underline")[did not ] have the characteristics of a Lateral MI''
+
+Characteristics of a lateral MI include :
+
+* ST-segment elevation and T wave inversion in (text-style:"bold","underline")[at least 2 two contiguous leads]
+	* ST-segment elevation in leads I, aVL, V5, and V6
+* Reciprocal ST depression in leads III and aVF
+ST Elevation is defined as a deviation from the isoeletric line by +0.1 millivolt (1mm) . This deviatrion is measured at the J-point
+
+
+
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[Measuring J-Point] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpoint.PNG
+width="400" height="300"
+</div>}]
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[
+''J-Point Elevation''] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpe.PNG
+width="400" height="300"
+</div>}]
+
+---
+Typically you will see ST-segment/ J-point elevation in the area of the heart that is being affected by the ischemic changes and you will see reciprocal changes (usually ST-segment/j-point depression) in the ekg lead(s) that are opposite that area of the heart. 
+EKG leads that "show" the same areas of the heart are refered to as "contiguous leads". 
+Areas that show reciprical chages are typically anatomically opposite of each other
+For example:
+* Anterior leads (V2-3) are reciprocal to posterior leads (V7, V8, V9). 
+* Lateral leads (I and aVL) are reciprocal to Inferior leads (II, III and aVF)
+
+Below is a list of more contiguous leads. 
+
+{<div style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+---
+It is important to note the difference between precordial leads (V1,V2,V3,V4,V5 and V6) from augmented limb leads (aVR, aVL and aVF), and limb leads (I, II and III). A Lateral MI will have elevation in I (limb lead) but not V1 (precordial lead), unless there is septal wall involvement in the lateral MI
+
+Below is an example of a Lateral MI -- Take note of the ST elevations in I, AVL, V5 & V6 and the reciprical changes throughout
+
+{<div style="overflow:scroll">
+<img
+src=https://litfl.com/wp-content/uploads/2018/08/ECG-Lateral-STEMI-1st-diagonal.jpg
+width="800" height="300"
+</div>}
+
+---
+
+
+---
+Let's go back to the [[room]] and look at your patients EKG again
+
+
+:: Patient EKG interpreted as Lateral MI {"position":"2525,2425","size":"100,100"}
+''Your patients EKG (text-style:"underline")[did not ] have the characteristics of a Lateral MI''
+
+Characteristics of a lateral MI include :
+
+* ST-segment elevation and T wave inversion in (text-style:"bold","underline")[at least 2 two contiguous leads]
+	* ST-segment elevation in leads I, aVL, V5, and V6
+* Reciprocal ST depression in leads III and aVF
+ST Elevation is defined as a deviation from the isoeletric line by +0.1 millivolt (1mm) . This deviatrion is measured at the J-point
+
+
+
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[Measuring J-Point] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpoint.PNG
+width="400" height="300"
+</div>}]
+
+(align:"=><=")+(box:"X=")[(text-style:"bold","underline")[
+''J-Point Elevation''] {<div>
+<img
+src=https://lanea5.github.io/Resday3/jpe.PNG
+width="400" height="300"
+</div>}]
+
+---
+Typically you will see ST-segment/ J-point elevation in the area of the heart that is being affected by the ischemic changes and you will see reciprocal changes (usually ST-segment/j-point depression) in the ekg lead(s) that are opposite that area of the heart. 
+EKG leads that "show" the same areas of the heart are refered to as "contiguous leads". 
+Areas that show reciprical chages are typically anatomically opposite of each other
+For example:
+* Anterior leads (V2-3) are reciprocal to posterior leads (V7, V8, V9). 
+* Lateral leads (I and aVL) are reciprocal to Inferior leads (II, III and aVF)
+
+Below is a list of more contiguous leads. 
+
+{<div style="overflow:scroll">
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+---
+It is important to note the difference between precordial leads (V1,V2,V3,V4,V5 and V6) from augmented limb leads (aVR, aVL and aVF), and limb leads (I, II and III). A Lateral MI will have elevation in I (limb lead) but not V1 (precordial lead), unless there is septal wall involvement in the lateral MI
+
+Below is an example of a Lateral MI -- Take note of the ST elevations in I, AVL, V5 & V6 and the reciprical changes throughout
+
+{<div style="overflow:scroll">
+<img
+src=https://litfl.com/wp-content/uploads/2018/08/ECG-Lateral-STEMI-1st-diagonal.jpg
+width="800" height="300"
+</div>}
+
+---
+
+
+---
+Let's go back to the [[room]] and look at your patients EKG again
+
+
+:: Patient has Chest Pain + vomiting {"position":"2525,2550","size":"100,100"}
+Chest pain + vomiting on it's own is not enough to be considered a STEMI. 
+Although you should be conerned for ACS for that patient, chest pain and vomiting on their own are not high enough criteria to emergently activae the cath lab team. 
+
+Let's go back to the [[room]] and take another look at that EKG
+
+
+:: Patient has Chest Pain + vomiting {"position":"2525,2550","size":"100,100"}
+Chest pain + vomiting on it's own is not enough to be considered a STEMI. 
+Although you should be conerned for ACS for that patient, chest pain and vomiting on their own are not high enough criteria to emergently activae the cath lab team. 
+
+Let's go back to the [[room]] and take another look at that EKG
+
+
+:: Patient presented with New LBBB + Chest Pain {"position":"2525,2300","size":"100,100"}
+''Your patients EKG (text-style:"underline")[did not ] have the characteristics of a LBBB''
+
+Characteristics of a Left Bundle Branch Block (LBBB) include :
+
+* QRS complex greater than 0.12 second
+* Widened S wave in lead V1
+* Positive T wave in lead V1
+* Initial positive deflection in lead V6 (tall, notched R wave)--This is often refered to as "bunny ears" on V6; this characteristic is often seen on V5 as well. 
+
+If acute, a LBBB may indicate acute myocardial infarction and is one of the indications for thrombolysis or transfer for PCI
+
+Below is an example of a LBBB EKG 
+Note the prominent "Bunny Ears" on lead V5 
+
+{<div 
+ style="overflow:scroll" class="image-container">
+<img
+src=https://www.skillstat.com/wp-content/uploads/2022/04/12-Lead-ECG-Practice-Quiz-Question-3-white.png
+width="1050" height="450"
+<div class="overlay-text"
+</div>}
+---
+Let's go back to the [[room]] and look at your patients EKG again
+
+
+:: Patient presented with New LBBB + Chest Pain {"position":"2525,2300","size":"100,100"}
+''Your patients EKG (text-style:"underline")[did not ] have the characteristics of a LBBB''
+
+Characteristics of a Left Bundle Branch Block (LBBB) include :
+
+* QRS complex greater than 0.12 second
+* Widened S wave in lead V1
+* Positive T wave in lead V1
+* Initial positive deflection in lead V6 (tall, notched R wave)--This is often refered to as "bunny ears" on V6; this characteristic is often seen on V5 as well. 
+
+If acute, a LBBB may indicate acute myocardial infarction and is one of the indications for thrombolysis or transfer for PCI
+
+Below is an example of a LBBB EKG 
+Note the prominent "Bunny Ears" on lead V6 
+
+{<div 
+ style="overflow:scroll" class="image-container">
+<img
+src=https://i0.wp.com/www.stemlynsblog.org/wp-content/uploads/2020/04/Screenshot-2020-04-27-12.57.38.png?resize=1400%2C749&ssl=1
+width="1050" height="450"
+<div class="overlay-text"
+</div>}
+---
+Let's go back to the [[room]] and look at your patients EKG again
+
+
+:: Physical assessment {"position":"1575,925","size":"100,100"}
+Patient is appears slightly clammy and is sitting in chair hunched over, elbows on knees, with emesis bag in hand. Otherwise assessment is within normal limits; There are no obvious impairments to ABCDE on assessment.
+When asking her to rate her pain patients states "it's not really pain, but I feel better like this....I don't know, it probably like a 4/10 ". When asking to locate the pain pt vaguely gestures to the lower part of her sternum. 
+
+
+(align:"=><=")+(box:"X=")[Ready to Assign a Triage Score?
+[[Yes]] 
+
+ [[No]]
+]
+
+
+:: Physical assessment {"position":"1575,925","size":"100,100"}
+Patient is appears slightly clammy and is sitting in chair hunched over, elbows on knees, with emesis bag in hand. Otherwise assessment is within normal limits; There are no obvious impairments to ABCDE on assessment.
+When asking her to rate her pain patients states "it's not really pain, but I feel better like this....I don't know, it probably like a 4/10 ". When asking to locate the pain pt vaguely gestures to the lower part of her sternum. 
+
+
+(align:"=><=")+(box:"X=")[Ready to Assign a Triage Score?
+[[Yes]] 
+
+ [[No]]
+]
+
+
+:: Pregnancy (Potential) {"position":"900,1275","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: Pregnancy (Potential) {"position":"900,1275","size":"100,100"}
+Order's placed and patient placed in [[lobby]]
+
+
+:: RCA {"position":"2225,3175","size":"100,100"}
+The Right Coronary Artery supplies the inferior portion of the heart. 
+This would be reflected in leads II, III, aVF
+{<div  style="overflow:scroll" >
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+{<div  style="overflow:scroll">
+<img
+src=https://ecgwaves.com/wp-content/uploads/2016/09/ecg-localization-myocardial-infarction-stemi-ischemia-coronary-artery-occlusion.jpg
+width="700" height="500"
+</div>}
+
+
+---
+
+Take a look at the images above and infer which vessle supplies leads [[V2&V3]]
+
+
+:: RCA {"position":"2225,3175","size":"100,100"}
+The Right Coronary Artery supplies the inferior portion of the heart. 
+This would be reflected in leads II, III, aVF
+{<div  style="overflow:scroll" >
+<img
+src=https://lanea5.github.io/Resday3/page01.jpg
+width="700" height="900"
+</div>}
+
+{<div  style="overflow:scroll">
+<img
+src=https://ecgwaves.com/wp-content/uploads/2016/09/ecg-localization-myocardial-infarction-stemi-ischemia-coronary-artery-occlusion.jpg
+width="700" height="500"
+</div>}
+
+
+---
+
+Take a look at the images above and infer which vessle supplies leads [[V2&V3]]
+
+
+:: That's too much, I'm not giving that {"position":"3375,3200","size":"100,100"}
+It is important to maintain a questioning attitude when receiving an order from a physican, however when raising your concerns to the ordering provider, be use to maintain professionalism. 
+In this case, it would be recommended to use  ''ARCC ''
+'(text-style:"bold","underline")['A']'sk a Question –(text-style:"bold","underline")[''R']'equest a Change–v'oice a '(text-style:"bold","underline")['C'']oncern –use your '(text-style:"bold","underline")['C'']hain of Command.
+
+
+:: That's too much, I'm not giving that {"position":"3375,3200","size":"100,100"}
+It is important to maintain a questioning attitude when receiving an order from a physican, however when raising your concerns to the ordering provider, be use to maintain professionalism. 
+In this case, it would be recommended to use  ''ARCC ''
+'(text-style:"bold","underline")['A']'sk a Question –(text-style:"bold","underline")[''R']'equest a Change–v'oice a '(text-style:"bold","underline")['C'']oncern –use your '(text-style:"bold","underline")['C'']hain of Command.
+
+
+:: Triage arrival {"position":"1425,325","size":"100,100"}
+43 year old female arrives to Triage via private vehicle and states "I just can't stop vomiting". Patient appears clammy and is bent over in the triage bay.
+
+Vitals read: Temp 36.6C
+				HR: 78
+                RR: 24
+                BP: 145/76
+                SPO2: 96% RA
+                
+                Ready to assign a triage score? 
+                [[Yes]]
+                [[No]]
+
+
+:: Triage arrival {"position":"1425,325","size":"100,100"}
+43 year old female arrives to Triage via private vehicle and states "I just can't stop vomiting". Patient appears clammy and is bent over in the triage bay.
+
+Vitals read: Temp 36.6C
+				HR: 78
+                RR: 24
+                BP: 145/76
+                SPO2: 96% RA
+                
+                Ready to assign a triage score? 
+                [[Yes]]
+                [[No]]
+
+
+:: V1&V2 {"position":"2250,2575","size":"100,100"}
+These leads do have J-point elevation! These leads contribute to the Anteroir designation of this of this MI, but do not include the Septal. 
+
+
+Lets take a look at you [[Patient EKG interpreted as Anterior/Septal MI]] again and try to find the septal lead that is also elevated. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: V1&V2 {"position":"2250,2575","size":"100,100"}
+These leads do have J-point elevation! These leads contribute to the Anteroir designation of this of this MI, but do not include the Septal. 
+
+
+Lets take a look at you [[Patient EKG interpreted as Anterior/Septal MI]] again and try to find the septal lead that is also elevated. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: V1&V6 {"position":"2075,2700","size":"100,100"}
+V1 does have an elevated J-point, however V6 has a j-point at the isoeletric line. 
+It is also important to note that these leadas are not contiguous, so even if both leads were elevated this patient would not necessiarly be experiencing a STEMI.
+Lets take a look at your [[Patient EKG interpreted as Anterior/Septal MI]] again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: V1&V6 {"position":"2075,2700","size":"100,100"}
+V1 does have an elevated J-point, however V6 has a j-point at the isoeletric line. 
+It is also important to note that these leadas are not contiguous, so even if both leads were elevated this patient would not necessiarly be experiencing a STEMI.
+Lets take a look at your [[Patient EKG interpreted as Anterior/Septal MI]] again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: V1,V2,&V3 {"position":"2275,2825","size":"100,100"}
+#(text-style:"bold","wavy-underline","outline")[CORRECT]
+
+V1, V2, and V3 all have >1mm elvation at the j-point
+
+Which Vessel is the most likely causing the ischemia?
+
+[[RCA]]
+[[LAD]]
+[[LCx]]
+
+
+:: V2&V3 {"position":"2275,2825","size":"100,100"}
+#(text-style:"bold","wavy-underline","outline")[CORRECT]
+
+V2, V3, and V4 all have >1mm elvation at the j-point
+
+Which Vessel is the most likely causing the ischemia?
+
+[[RCA]]
+[[LAD]]
+[[LCx]]
+
+
+:: V3&V4 {"position":"2075,2575","size":"100,100"}
+Not all of these leads have J-point elevation. 
+
+Lets take a look at you [[Patient EKG interpreted as Anterior/Septal MI]] again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: V3&V4 {"position":"2075,2575","size":"100,100"}
+Not all of these leads have J-point elevation. 
+
+Lets take a look at you [[Patient EKG interpreted as Anterior/Septal MI]] again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: V5&V6 {"position":"2250,2700","size":"100,100"}
+These leads do not have J-point elevations
+
+Lets take a look at your [[Patient EKG interpreted as Anterior/Septal MI]] again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: V5&V6 {"position":"2250,2700","size":"100,100"}
+These leads do not have J-point elevations
+
+Lets take a look at your [[Patient EKG interpreted as Anterior/Septal MI]] again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: Yes {"position":"875,700","size":"100,100"}
+What ESI score would you assign this patient?
+
+[[1]]
+[[2]]
+[[3]]
+[[4]]
+[[5]]
+
+
+:: Yes {"position":"875,700","size":"100,100"}
+What ESI score would you assign this patient?
+
+[[1]]
+[[2]]
+[[3]]
+[[4]]
+[[5]]
+
+
+:: Zofran {"position":"3075,3075","size":"100,100"}
+QT interval on this patient has been double checked and is within normal limits. This order is appropriate for this paitent, if needed you could seek information for  clarifying the order. 
+If needed, you could as a friend who might (text-colour:yellow)[k[[no]]w ]what is wrong with these orders
+
+
+:: Zofran {"position":"3075,3075","size":"100,100"}
+QT interval on this patient has been double checked and is within normal limits. This order is appropriate for this paitent, if needed you could seek information for  clarifying the order. 
+If needed, you could as a friend who might (text-colour:yellow)[k[[no]]w ]what is wrong with these orders
+
+
+:: aVL&V1 {"position":"2075,2825","size":"100,100"}
+V1 does have an elevated J-point, however aVL has a j-point at the isoeletric line. 
+It is also important to note that these leadas are not contiguous, so even if both leads were elevated this patient would not necessiarly be experiencing a STEMI.
+Lets take a look at your [[Patient EKG interpreted as Anterior/Septal MI]]  again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: aVL&V1 {"position":"2075,2825","size":"100,100"}
+V1 does have an elevated J-point, however aVL has a j-point at the isoeletric line. 
+It is also important to note that these leadas are not contiguous, so even if both leads were elevated this patient would not necessiarly be experiencing a STEMI.
+Lets take a look at your [[Patient EKG interpreted as Anterior/Septal MI]]  again. 
+
+Remember, J-point elevation is defined as 1mm (1 small box) above the isoeletric line
+
+
+:: administer the next dose {"position":"3600,2575","size":"100,100"}
+You administer the 2nd dose of Nitro. 
+In 5 minutes you check the patients vtials 
+HR 45 BP 84/44 RR 23 SPO2 93%. 
+
+You alert the physcian of the patients vitals change and they order a new EKG, 1L NS via pressure bag, 2L O2 via NC,  and to hold the next dose of Nitro.
+
+The EKG shows sinus brady with no changes to the MI.
+
+---
+The physician asks how long it will be until the Cath Lab team arrives. 
+
+You speak to the Secretary and they state "I never heard you call a STEMI alert? When did you do that? " 
+
+How would you proceed with this conversatoin? 
+
+[["I told you like an hour ago"]]
+[[Can you please page a STEMI alert now, we can talk about the rest later]]
+
+
+:: administer the next dose {"position":"3600,2575","size":"100,100"}
+You administer the 2nd dose of Nitro. 
+In 5 minutes you check the patients vtials 
+HR 45 BP 84/44 RR 23 SPO2 93%. 
+
+You alert the physcian of the patients vitals change and they order a new EKG, 1L NS via pressure bag, 2L O2 via NC,  and to hold the next dose of Nitro.
+
+The EKG shows sinus brady with no changes to the MI.
+
+---
+The physician asks how long it will be until the Cath Lab team arrives. 
+
+You speak to the Secretary and they state "I never heard you call a STEMI alert? When did you do that? " 
+
+How would you proceed with this conversatoin? 
+
+[["I told you like an hour ago"]]
+[[Can you please page a STEMI alert now, we can talk about the rest later]]
+
+
+:: adminsiter {"position":"3450,2425","size":"100,100"}
+All orders for your patient orders have transfered into the eMAR with appropriate dosages. 
+Your patients current
+Vitals read HR 70 BP 144/96 RR 23 SPO2 96%
+You adminster the first dose of Nitro, ASA, Herparin and Zofran. Pt tollerated well. 
+[[Check back in 5 minutes]]
+
+
+:: adminsiter {"position":"3450,2425","size":"100,100"}
+All orders for your patient orders have transfered into the eMAR with appropriate dosages. 
+Your patients current
+Vitals read HR 70 BP 144/96 RR 23 SPO2 96%
+You adminster the first dose of Nitro, ASA, Herparin and Zofran. Pt tollerated well. 
+[[Check back in 5 minutes]]
+
+
+:: admitted for N-STEMI {"position":"3950,3175","size":"100,100"}
+Correct!
+ If there was no ST elvation on this EKG, this patient would most likely be admitted for NSTEMI 
+  Below is more information on different ACS diagnosis and how they differ form eachother. 
+ {<div  style="overflow:scroll">
+<img
+src=https://img.grepmed.com/uploads/3707/diagnosis-angina-nstemi-definitions-acs-original.jpeg
+width="2000" height="600"
+</div>}
+
+
+Now that we have covered the types of ACS, lets [[check on your patient]]
+
+
+:: admitted for N-STEMI {"position":"3950,3175","size":"100,100"}
+Correct!
+ If there was no ST elvation on this EKG, this patient would most likely be admitted for NSTEMI 
+  Below is more information on different ACS diagnosis and how they differ form eachother. 
+ {<div  style="overflow:scroll">
+<img
+src=https://img.grepmed.com/uploads/3707/diagnosis-angina-nstemi-definitions-acs-original.jpeg
+width="2000" height="600"
+</div>}
+
+
+Now that we have covered the types of ACS, lets [[check on your patient]]
+
+
+:: ask the physician to reevaluate first {"position":"3725,2575","size":"100,100"}
+You speak to the physician, they reevualuate the patient and orders to [[administer the next dose]]
+
+
+:: ask the physician to reevaluate first {"position":"3725,2575","size":"100,100"}
+You speak to the physician, they reevualuate the patient and orders to [[administer the next dose]]
+
+
+:: back {"position":"2800,2975","size":"100,100"}
+Your patient has been changed into a gown, all belongings placed in an belonging bag and labeled appropriately. Pt is in the stretcher, resting, intermittently retching, diaphoretic and complains of being cold. 
+You place the patient on the monitor, you cycle a set of vitals and place zoll pads in preparation for decompensation. 
+Vitals read HR 76 BP 155/96 RR 24 SPO2 96%
+The physician enters and gives verbal orders for 4mg zofran IVP, 324 PO chewable ASA, 10,000u heparin bolus IVP, and 3 doses of 0.4 sublingual Nitro Q5m.
+
+Are these orders appropraite for your patient?
+[[yes]]
+[[no]]
+
+
+:: back {"position":"2800,2975","size":"100,100"}
+Your patient has been changed into a gown, all belongings placed in an belonging bag and labeled appropriately. Pt is in the stretcher, resting, intermittently retching, diaphoretic and complains of being cold. 
+You place the patient on the monitor, you cycle a set of vitals and place zoll pads in preparation for decompensation. 
+Vitals read HR 76 BP 155/96 RR 24 SPO2 96%
+The physician enters and gives verbal orders for 4mg zofran IVP, 324 PO chewable ASA, 10,000u heparin bolus IVP, and 3 doses of 0.4 sublingual Nitro Q5m.
+
+Are these orders appropraite for your patient?
+[[yes]]
+[[no]]
+
+
+:: check on your patient {"position":"4250,3150","size":"100,100"}
+It's been 10 minutes since your last set of vitals. 
+you check on your patient and they appear the same, GCS 15 and resting comfortably in bed. 
+Your vitals are VS are HR 65 BP 101/64 RR 20 SPO2 97%. 
+
+When you go to leave [[Cath Lab RN arrives]] and asks for report on your patient
+
+
+:: check on your patient {"position":"4250,3150","size":"100,100"}
+It's been 10 minutes since your last set of vitals. 
+you check on your patient and they appear the same, GCS 15 and resting comfortably in bed. 
+Your vitals are VS are HR 65 BP 101/64 RR 20 SPO2 97%. 
+
+When you go to leave [[Cath Lab RN arrives]] and asks for report on your patient
+
+
+:: lobby {"position":"3075,2175","size":"100,100"}
+Patient has been sitting in lobby for 30 minutes when a caregiver from registration calls you to check on your patient
+You patient now appears diaphoretic and tired. 
+When you approach the patient you call her by name and there is no response. 
+You sternal rub the patient and she then opens eyes and folllows commands. 
+When asked what happened, the patient states that she just does not feel good starts vomting again. 
+You alert the charge nurse of this change and the patient is immediatly wheeled back into an available [[Hallway bed]]
+
+
+:: lobby {"position":"3075,2175","size":"100,100"}
+Patient has been sitting in lobby for 30 minutes when a caregiver from registration calls you to check on your patient
+You patient now appears diaphoretic and tired. 
+When you approach the patient you call her by name and there is no response. 
+You sternal rub the patient and she then opens eyes and folllows commands. 
+When asked what happened, the patient states that she just does not feel good starts vomting again. 
+You alert the charge nurse of this change and the patient is immediatly wheeled back into an available [[Hallway bed]]
+
+
+:: no {"position":"2925,3100","size":"100,100"}
+Which order is inappropriate? 
+[[Zofran]]
+[[ASA]]
+[[Heparin]]
+[[Nitro]]
+
+
+:: no {"position":"2925,3100","size":"100,100"}
+Which order is inappropriate? 
+[[Zofran]]
+[[ASA]]
+[[Heparin]]
+[[Nitro]]
+
+
+:: order {"position":"3250,3450","size":"100,100"}
+you ask "I heard 10,000 units IVP bolus Heparin, is that correct?"
+and the physician responds stating "oh, no, sorry... get the heparin ready, but I will need to calulate the dose based on her weight." 
+
+based on 60 units/kg bolus, orunded to the nearest hundreth with a max dose of 4,000 units. 
+
+Your patient's weight is  weight 210#
+What do you anticipate the Heparin dose to be? 
+  
+  [[3,300u]]
+  [[4,000u]]
+  [[5,700u]]
+
+
+:: order {"position":"3250,3450","size":"100,100"}
+you ask "I heard 10,000 units IVP bolus Heparin, is that correct?"
+and the physician responds stating "oh, no, sorry... get the heparin ready, but I will need to calulate the dose based on her weight." 
+
+based on 60 units/kg bolus, orunded to the nearest hundreth with a max dose of 4,000 units. 
+
+Your patient's weight is  weight 210#
+What do you anticipate the Heparin dose to be? 
+  
+  [[3,300u]]
+  [[4,000u]]
+  [[5,700u]]
+
+
+:: resources they need {"position":"3650,3175","size":"100,100"}
+You check back on your patient, the fluid bolus has finished and the patient is resting in bed. No s/s distress noted . 
+VS are HR 55 BP 96/54 RR 20 SPO2 96%. 
+you check the labs and your patients troponin results as 46ng/L
+
+---
+The troponin raises in response to myocardial iscemia.
+If your patient did not have ST elevation noted in the EKG, what would her likely disposition be ?
+
+[[Admited obs for ACS Symptoms]]
+[[admitted for N-STEMI]]
+[[Discharge home with follow up by cardiology]]
+
+
+:: resources they need {"position":"3650,3175","size":"100,100"}
+You check back on your patient, the fluid bolus has finished and the patient is resting in bed. No s/s distress noted . 
+VS are HR 55 BP 96/54 RR 20 SPO2 96%. 
+you check the labs and your patients troponin results as 46ng/L
+
+---
+The troponin raises in response to myocardial iscemia.
+If your patient did not have ST elevation noted in the EKG, what would her likely disposition be ?
+
+[[Admited obs for ACS Symptoms]]
+[[admitted for N-STEMI]]
+[[Discharge home with follow up by cardiology]]
+
+
+:: room {"position":"1925,2375","size":"100,100"}
+Based on the EKG, why was a STEMI Alert called?
+
+
+* [[Patient presented with New LBBB + Chest Pain]]
+
+* [[Patient EKG interpreted as Lateral MI]]
+
+* [[Patient EKG interprered as Inferior MI]]
+
+* [[Patient EKG interpreted as Anterior/Septal MI]]
+
+* [[Patient has Chest Pain + vomiting]]
+
+
+
+
+{<div style="overflow:scroll">
+<img
+src=https://www.skillstat.com/wp-content/uploads/2022/04/12-Lead-ECG-Practice-Quiz-Question-7-white.png
+width="1300" height="500"
+</div>}
+
+
+:: room {"position":"1925,2375","size":"100,100"}
+Based on the EKG, why was a STEMI Alert called?
+
+
+* [[Patient presented with New LBBB + Chest Pain]]
+
+* [[Patient EKG interpreted as Lateral MI]]
+
+* [[Patient EKG interprered as Inferior MI]]
+
+* [[Patient EKG interpreted as Anterior/Septal MI]]
+
+* [[Patient has Chest Pain + vomiting]]
+
+
+
+
+{<div style="overflow:scroll">
+<img
+src=https://www.researchgate.net/profile/Ovidiu-Mitu/publication/312333124/figure/fig3/AS:450775592771586@1484484684579/ECG-with-appearance-of-chronic-anteroseptal-myocardial-infarction.png
+width="1300" height="500"
+</div>}
+
+
+:: yes {"position":"2800,3100","size":"100,100"}
+Let's go [[back]] and look at those orders again
+
+
+:: yes {"position":"2800,3100","size":"100,100"}
+Let's go [[back]] and look at those orders again
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    font: 100% Georgia,serif;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 100%;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    padding: 5% 5%;
+    overflow: hidden;
+    background-color: #0972a9;
+    color: #fff;
+}
+tw-link {color: yellow}
+
+.visited {
+	color: orange;
+}
